@@ -6,4 +6,7 @@
 echo 111;
 echo 'free_coder';
 echo 234;
+
+
+$b=1111;
 ?>
