@@ -2,8 +2,8 @@
 /**
  * author dwx 2018/8/14
  */
-
-echo 111;
-echo 'free_coder';
-echo 234;
+$b = 3;
+echo $a/$b;
+echo $a;
+echo $b;
 ?>
