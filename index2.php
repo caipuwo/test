@@ -9,4 +9,6 @@ echo 234;
 $a = 12;
 $b = 3;
 echo $a/$b;
+
+echo $b;
 ?>
