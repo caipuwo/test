@@ -6,4 +6,5 @@ $b = 3;
 echo $a/$b;
 echo $a;
 echo $b;
+echo $b+$a;
 ?>
